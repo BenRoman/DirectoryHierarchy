@@ -1,0 +1,10 @@
+c:\users\romas\source\repos\DirectoryToJSON\DirectoryToJSON\bin\Debug\DirectoryToJSON.exe.config
+c:\users\romas\source\repos\DirectoryToJSON\DirectoryToJSON\bin\Debug\DirectoryToJSON.exe
+c:\users\romas\source\repos\DirectoryToJSON\DirectoryToJSON\bin\Debug\DirectoryToJSON.pdb
+c:\users\romas\source\repos\DirectoryToJSON\DirectoryToJSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\romas\source\repos\DirectoryToJSON\DirectoryToJSON\bin\Debug\Newtonsoft.Json.xml
+c:\users\romas\source\repos\DirectoryToJSON\DirectoryToJSON\obj\Debug\DirectoryToJSON.csprojAssemblyReference.cache
+c:\users\romas\source\repos\DirectoryToJSON\DirectoryToJSON\obj\Debug\DirectoryToJSON.csproj.CoreCompileInputs.cache
+c:\users\romas\source\repos\DirectoryToJSON\DirectoryToJSON\obj\Debug\DirectoryToJSON.csproj.CopyComplete
+c:\users\romas\source\repos\DirectoryToJSON\DirectoryToJSON\obj\Debug\DirectoryToJSON.exe
+c:\users\romas\source\repos\DirectoryToJSON\DirectoryToJSON\obj\Debug\DirectoryToJSON.pdb
